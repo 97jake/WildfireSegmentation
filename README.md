@@ -41,4 +41,6 @@ Below are the basic steps to follow -
    <br>-This link has a map of recent fires and can be helpful in obtaining coordinate locations of fires so as to locate them in Copernicus
 2. https://scihub.copernicus.eu/dhus/#/home
    <br>-Copernicus OpenAccess Hub for downloading satellite images. See tutorials in files 1 and 2 for more information on how to use
+3. https://byu.app.box.com/folder/153099301010
+   <br>-This is a link to a folder in my research group's box account that contains all of the satellite images I gathered. Unfortunately, the general public won't be able to access this folder and the corresponding data. I haven't been able to find a good place to upload the data so that it will be available to the public, so until I do it will stay on box.
   
